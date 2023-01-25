@@ -1,2 +1,2 @@
-# sensor_catalogue
+# Sensor  Catalogue
 Web application for sensor catalogue
